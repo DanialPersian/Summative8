@@ -1,0 +1,14 @@
+C:\Users\774244\Source\Repos\Danial.Summative8\Danial\obj\Debug\net6.0\Danial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\774244\Source\Repos\Danial.Summative8\Danial\obj\Debug\net6.0\Danial.AssemblyInfoInputs.cache
+C:\Users\774244\Source\Repos\Danial.Summative8\Danial\obj\Debug\net6.0\Danial.AssemblyInfo.cs
+C:\Users\774244\Source\Repos\Danial.Summative8\Danial\obj\Debug\net6.0\Danial.csproj.CoreCompileInputs.cache
+C:\Users\774244\Source\Repos\Danial.Summative8\Danial\bin\Debug\net6.0\Danial.exe
+C:\Users\774244\Source\Repos\Danial.Summative8\Danial\bin\Debug\net6.0\Danial.deps.json
+C:\Users\774244\Source\Repos\Danial.Summative8\Danial\bin\Debug\net6.0\Danial.runtimeconfig.json
+C:\Users\774244\Source\Repos\Danial.Summative8\Danial\bin\Debug\net6.0\Danial.dll
+C:\Users\774244\Source\Repos\Danial.Summative8\Danial\bin\Debug\net6.0\Danial.pdb
+C:\Users\774244\Source\Repos\Danial.Summative8\Danial\obj\Debug\net6.0\Danial.dll
+C:\Users\774244\Source\Repos\Danial.Summative8\Danial\obj\Debug\net6.0\refint\Danial.dll
+C:\Users\774244\Source\Repos\Danial.Summative8\Danial\obj\Debug\net6.0\Danial.pdb
+C:\Users\774244\Source\Repos\Danial.Summative8\Danial\obj\Debug\net6.0\Danial.genruntimeconfig.cache
+C:\Users\774244\Source\Repos\Danial.Summative8\Danial\obj\Debug\net6.0\ref\Danial.dll
